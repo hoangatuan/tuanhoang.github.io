@@ -1,0 +1,12 @@
+[submodule "LoveIt"]
+	path = LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/papermod-example"]
+	path = themes/papermod-example
+	url = https://github.com/adityatelange/hugo-PaperMod.git
