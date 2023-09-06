@@ -4,7 +4,7 @@ title: "Method Swizzling in Swift"
 date: 2021-07-26T09:00:00+07:00
 lastmod: 2021-07-26T09:00:00+07:00
 draft: false
-description: "CoreData with MultiThreading"
+description: "Discover Method Swizzling in iOS using Swift"
 images: []
 resources:
 - name: "featured-image"
