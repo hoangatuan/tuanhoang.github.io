@@ -135,7 +135,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "1/2/2023"
+    dateFormat = "01/02"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
@@ -148,7 +148,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "01-02"
+    dateFormat = "01/02"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
@@ -234,12 +234,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 主页的社交信息设置
   [params.social]
     GitHub = ""
-    Linkedin = ""
+    Linkedin = "https://www.linkedin.com/in/tuan-hoang-b02025183/"
     Twitter = ""
     Instagram = ""
-    Facebook = ""
+    Facebook = "https://www.facebook.com/4evertopbom"
     Telegram = ""
-    Medium = ""
+    Medium = "https://hoangatuan.medium.com/"
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
@@ -305,7 +305,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = "xxxx"
+    Email = "tuanhanh19981998@gmail.com"
     RSS = ""
 
   # Page global config
@@ -334,7 +334,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     fontawesome = true
     # whether to show link to Raw Markdown content of the content
     # 是否显示原始 Markdown 文档内容的链接
-    linkToMarkdown = true
+    linkToMarkdown = false
     # whether to show the full text content in RSS
     # 是否在 RSS 中显示全文内容
     rssFullText = false
@@ -479,7 +479,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
       # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
-        enable = false
+        enable = true
         width = "100%"
         numPosts = 10
         appId = ""
